@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "*"
+        "OriginUrl": "http:mylambdastack-s3bucket-sd8fzmpan8n4.s3-website-us-east-1.amazonaws.com"
     }
 }
